@@ -108,5 +108,3 @@ let text: String = "Texto"
 [commitEXT]:https://img.shields.io/github/commits-since/Saitco/EXTClass/0.3.2.svg
 
 
-<!-- Links Imagenes -->
-[logo]:https://github.com/Saitco/README/blob/master/img/rosaL.png "Icono de la App"
