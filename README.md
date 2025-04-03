@@ -79,11 +79,6 @@ let text: String = "Texto"
 [![CommitEXT][commitEXT]][commitEXT]
 
 
-### Imagen
-![Imagen de logo][logo]
-
-
-
 
 <!-- Links -->
 [myTwitter]:http://twitter.com/matCorrenti
